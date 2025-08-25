@@ -4,6 +4,7 @@ body{
 }
 
 header {
+    font-family: "Rubik Beastly", system-ui;
     border-bottom: solid 2px rgb(228, 42, 42);
     padding: 20px;
     font-size: 32px;
