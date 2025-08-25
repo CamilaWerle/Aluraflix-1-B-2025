@@ -22,3 +22,9 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+.rubik-beastly-regular {
+  font-family: "Rubik Beastly", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
